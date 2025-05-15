@@ -96,58 +96,6 @@ nav a:hover {
     color: white;
     border-radius: 5px;
 }
-
-
-.sesiones {
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: center;
-    gap: 20px;
-    padding: 20px;
-}
-
-.sesiones {
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: center;
-    gap: 20px;
-    padding: 20px;
-}
-.sesiones .img{
-    width: 100%;
-    border-radius: 8px;
-}
-.sesion {
-    width: 200px;
-    padding: 10px;
-    text-align: center;
-    background-color: #f4f4f4;
-    border-radius: 10px;
-    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
-}
-
-.sesion img {
-    width: 100px;
-    height: 100px;
-    margin-bottom: 10px;
-    cursor: pointer;
-}
-
-.boton-descarga {
-    display: block;
-    margin-top: 10px;
-    padding: 10px;
-    text-decoration: none;
-    background-color: #28a745;
-    color: white;
-    border-radius: 5px;
-    border: none;
-    cursor: pointer;
-}
-
-.boton-descarga:hover {
-    background-color: #218838;
-}
 .redes{
     background-color: #ffedef;
 }
